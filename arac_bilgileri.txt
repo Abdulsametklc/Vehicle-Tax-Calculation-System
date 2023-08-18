@@ -1,0 +1,50 @@
+Markası: Fiat, Modeli: Doblo, Üretim Yılı: 2014, Rengi: Otomobil, Fiyatı: 700000, Kodu: 1414
+Markası: Hyundai, Modeli: Accent Blue, Üretim Yılı: 2023, Rengi: Beyaz, Tipi: Otomobil, Fiyatı: 950000, Kodu: 1258
+Markası: Wolkswagen, Modeli: 2019, Üretim Yılı: 2019, Rengi: Sari, Tipi: Otomobil, Fiyatı: 750000, Kodu: 1554
+Markası: Ford, Modeli: Transit, Üretim Yılı: 2010, Rengi: Beyaz, Tipi: Kamyonet, Fiyatı: 350000, Kodu: 1522
+Markası: Toyota, Modeli: Corolla, Üretim Yılı: 2022, Rengi: Gri, Tipi: Otomobil, Fiyatı: 850000, Kodu: 1769
+Markası: Renault, Modeli: Clio, Üretim Yılı: 2018, Rengi: Mavi, Tipi: Otomobil, Fiyatı: 600000, Kodu: 1958
+Markası: Mercedes-Benz, Modeli: E 220, Üretim Yılı: 2021, Rengi: Siyah, Tipi: Otomobil, Fiyatı: 1300000, Kodu: 1010
+Markası: BMW, Modeli: 520i, Üretim Yılı: 2020, Rengi: Beyaz, Tipi: Otomobil, Fiyatı: 1200000, Kodu: 2120
+Markası: Audi, Modeli: A3, Üretim Yılı: 2019, Rengi: Gri, Tipi: Otomobil, Fiyatı: 950000, Kodu: 3098
+Markası: Nissan, Modeli: Qashqai, Üretim Yılı: 2023, Rengi: Kırmızı, Tipi: SUV, Fiyatı: 1100000, Kodu: 4343
+Markası: Peugeot, Modeli: 308, Üretim Yılı: 2022, Rengi: Beyaz, Tipi: Otomobil, Fiyatı: 820000, Kodu: 2384
+Markası: Opel, Modeli: Astra, Üretim Yılı: 2021, Rengi: Siyah, Tipi: Otomobil, Fiyatı: 800000, Kodu: 1175
+Markası: Honda, Modeli: Civic, Üretim Yılı: 2020, Rengi: Beyaz, Tipi: Otomobil, Fiyatı: 890000, Kodu: 4433
+Markası: Mazda, Modeli: CX-5, Üretim Yılı: 2022, Rengi: Kahverengi, Tipi: SUV, Fiyatı: 1050000, Kodu: 5678
+Markası: Kia, Modeli: Sportage, Üretim Yılı: 2021, Rengi: Mavi, Tipi: SUV, Fiyatı: 950000, Kodu: 9821
+Markası: Subaru, Modeli: Outback, Üretim Yılı: 2023, Rengi: Gri, Tipi: SUV, Fiyatı: 1150000, Kodu: 1890
+Markası: Citroen, Modeli: C4, Üretim Yılı: 2020, Rengi: Beyaz, Tipi: Otomobil, Fiyatı: 750000, Kodu: 5721
+Markası: Mitsubishi, Modeli: Lancer, Üretim Yılı: 2019, Rengi: Gri, Tipi: Otomobil, Fiyatı: 680000, Kodu: 7832
+Markası: Jaguar, Modeli: F-Pace, Üretim Yılı: 2022, Rengi: Siyah, Tipi: SUV, Fiyatı: 1400000, Kodu: 9321
+Markası: Land Rover, Modeli: Discovery, Üretim Yılı: 2023, Rengi: Beyaz, Tipi: SUV, Fiyatı: 1550000, Kodu: 2458
+Markası: Volvo, Modeli: XC60, Üretim Yılı: 2021, Rengi: Gri, Tipi: SUV, Fiyatı: 1250000, Kodu: 1098
+Markası: Porsche, Modeli: 911, Üretim Yılı: 2022, Rengi: Kırmızı, Tipi: Spor Araba, Fiyatı: 2100000, Kodu: 5674
+Markası: Ferrari, Modeli: 488 GTB, Üretim Yılı: 2023, Rengi: Siyah, Tipi: Spor Araba, Fiyatı: 3500000, Kodu: 8765
+Markası: Lamborghini, Modeli: Aventador, Üretim Yılı: 2022, Rengi: Sarı, Tipi: Spor Araba, Fiyatı: 4500000, Kodu: 4234
+Markası: Maserati, Modeli: Ghibli, Üretim Yılı: 2020, Rengi: Siyah, Tipi: Otomobil, Fiyatı: 2200000, Kodu: 2134
+Markası: Rolls-Royce, Modeli: Phantom, Üretim Yılı: 2023, Rengi: Beyaz, Tipi: Lüks, Fiyatı: 5500000, Kodu: 8941
+Markası: Bugatti, Modeli: Chiron, Üretim Yılı: 2022, Rengi: Mavi, Tipi: Spor Araba, Fiyatı: 25000000, Kodu: 1829
+Markası: Bentley, Modeli: Continental GT, Üretim Yılı: 2021, Rengi: Gri, Tipi: Lüks, Fiyatı: 3000000, Kodu: 7642
+Markası: Aston Martin, Modeli: DBS Superleggera, Üretim Yılı: 2023, Rengi: Siyah, Tipi: Spor Araba, Fiyatı: 4200000, Kodu: 4598
+Markası: Tesla, Modeli: Model S, Üretim Yılı: 2020, Rengi: Beyaz, Tipi: Elektrikli, Fiyatı: 1100000, Kodu: 7856
+Markası: Lexus, Modeli: RX, Üretim Yılı: 2022, Rengi: Beyaz, Tipi: SUV, Fiyatı: 1400000, Kodu: 5903
+Markası: Mini, Modeli: Cooper, Üretim Yılı: 2021, Rengi: Yeşil, Tipi: Otomobil, Fiyatı: 600000, Kodu: 3654
+Markası: Suzuki, Modeli: Swift, Üretim Yılı: 2020, Rengi: Turuncu, Tipi: Otomobil, Fiyatı: 500000, Kodu: 2385
+Markası: Alfa Romeo, Modeli: Giulia, Üretim Yılı: 2019, Rengi: Kırmızı, Tipi: Otomobil, Fiyatı: 800000, Kodu: 1945
+Markası: Infiniti, Modeli: QX50, Üretim Yılı: 2022, Rengi: Siyah, Tipi: SUV, Fiyatı: 1200000, Kodu: 8532
+Markası: GMC, Modeli: Sierra, Üretim Yılı: 2021, Rengi: Beyaz, Tipi: Kamyonet, Fiyatı: 950000, Kodu: 5432
+Markası: Chevrolet, Modeli: Camaro, Üretim Yılı: 2023, Rengi: Mavi, Tipi: Spor Araba, Fiyatı: 900000, Kodu: 2468
+Markası: Dodge, Modeli: Challenger, Üretim Yılı: 2022, Rengi: Siyah, Tipi: Spor Araba, Fiyatı: 850000, Kodu: 9512
+Markası: Cadillac, Modeli: Escalade, Üretim Yılı: 2020, Rengi: Siyah, Tipi: SUV, Fiyatı: 1300000, Kodu: 8743
+Markası: Hummer, Modeli: H2, Üretim Yılı: 2021, Rengi: Gri, Tipi: SUV, Fiyatı: 1800000, Kodu: 3357
+Markası: Subaru, Modeli: Impreza, Üretim Yılı: 2023, Rengi: Mavi, Tipi: Otomobil, Fiyatı: 550000, Kodu: 7261
+Markası: Fiat, Modeli: 500, Üretim Yılı: 2022, Rengi: Kırmızı, Tipi: Otomobil, Fiyatı: 400000, Kodu: 5198
+Markası: Hyundai, Modeli: Kona, Üretim Yılı: 2021, Rengi: Turuncu, Tipi: SUV, Fiyatı: 720000, Kodu: 6732
+Markası: Volkswagen, Modeli: Golf, Üretim Yılı: 2020, Rengi: Gri, Tipi: Otomobil, Fiyatı: 600000, Kodu: 1987
+Markası: Ford, Modeli: Mustang, Üretim Yılı: 2022, Rengi: Siyah, Tipi: Spor Araba, Fiyatı: 1100000, Kodu: 5612
+Markası: Toyota, Modeli: Yaris, Üretim Yılı: 2023, Rengi: Beyaz, Tipi: Otomobil, Fiyatı: 450000, Kodu: 7632
+Markası: Mercedes-Benz, Modeli: GLC, Üretim Yılı: 2021, Rengi: Beyaz, Tipi: SUV, Fiyatı: 1500000, Kodu: 2345
+Markası: BMW, Modeli: X5, Üretim Yılı: 2022, Rengi: Siyah, Tipi: SUV, Fiyatı: 1700000, Kodu: 8693
+Markası: Mitsubishi, Modeli: L300, Üretim Yılı: 2009, Rengi: Beyaz, Tipi: Kamyonet, Fiyatı: 390000, Kodu: 2741
+Markası: Hyundai, Modeli: Accent Blue, Üretim Yılı: 2015, Rengi: Beyaz, Tipi: Otomobil, Fiyatı: 840000, Kodu: 1555
