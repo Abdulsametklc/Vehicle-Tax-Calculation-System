@@ -28,6 +28,6 @@ def arac_ekle():
                     with open("arac_bilgileri.txt", "a", encoding = "utf-8") as file:
                        file.write("Markası: " + arac_marka+  ", " + "Modeli: " + arac_model + ", " + "Üretim Yılı: " + arac_yili + ", " + "Rengi: " + arac_rengi + ", " + "Tipi: " + arac_tipi + ", " + "Fiyatı: " + arac_fiyati + ", " + "Kodu: " + str(arac_kodu) + "\n")
                        print(f"{arac_marka} markalı aracınız {arac_kodu} numaralı araç kodu ile sisteme yüklenmiştir.")
-                    main.main() #dönüde tekrar araç eklemesin diye main fonksiyonunu çağırarak meniye geri dönüyoruz.
+                    main.main() #döngüde tekrar araç eklemesin diye main fonksiyonunu çağırarak meniye geri dönüyoruz.
 
                    
